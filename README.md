@@ -10,5 +10,3 @@ I'm a student graduate programming at Artevelde University of Applied Sciences.
 
 ## 🤝Connect with me
 - **[LinkedIn](https://www.linkedin.com/in/emre-akkus-118363251/)**
-
-
